@@ -1,0 +1,17 @@
+Package: tw.com.TinXie.PxMart-PRO
+Name: PxMart_PRO_FJB
+Version: 1.3
+Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC  #簡短簡介
+Section: System #Cydia源中的分類
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: TinXie
+dev: 
+Homepage: 
+Depiction: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
+Maintainer: TinXie <s2339956@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
+
