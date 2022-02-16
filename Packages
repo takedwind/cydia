@@ -1,7 +1,7 @@
 Package: tw.com.TinXie.PxMart-PRO
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: TinXie <s2339956@gmail.com>
+Maintainer: Tkwind <takedwind@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/tw.com.TinXie.PxMart-PRO_1.2_iphoneos-arm.deb
 Size: 43950
@@ -11,7 +11,7 @@ SHA256: 042856f0f46c67d719ea9c058ea05864064de87abe6b39d87e436f17440fbac8
 Section: System #Cydia源中的分類
 Priority: optional
 Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC  #簡短簡介
-Author: TinXie
+Author: Tkwind
 Depiction: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
 Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 Name: PxMart_PRO_FJB
@@ -19,7 +19,7 @@ Name: PxMart_PRO_FJB
 Package: tw.com.TinXie.PxMart-PRO
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: TinXie <s2339956@gmail.com>
+Maintainer: Tkwind <takedwind@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/tw.com.TinXie.PxMart-PRO_1.3_iphoneos-arm.deb
 Size: 44916
@@ -29,7 +29,7 @@ SHA256: ff1a7b4361952d807da6f33c7aa586904ef13774450a01b2fc440befb1d452ac
 Section: System #Cydia源中的分類
 Priority: optional
 Description: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
-Author: TinXie
+Author: Tkwind
 Depiction: https://tinxie1115.github.io/descriptions/PxMart-PRO/index.html
 Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 Name: PxMart_PRO_FJB
@@ -37,7 +37,7 @@ Name: PxMart_PRO_FJB
 Package: tw.com.TinXie.WoodPeckeriOS
 Version: 1.2.9.1
 Architecture: iphoneos-arm
-Maintainer: TinXie <s2339956@gmail.com>
+Maintainer: Tkwind <takedwind@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, AppList
 Filename: ./debs/tw.com.TinXie.WoodPeckeriOS_1.2.9.1_iphoneos-arm.deb
 Size: 2411684
@@ -47,7 +47,7 @@ SHA256: d4deaf4c5c8e7391e9d69229516109e563fc34c28d81df7e81fc8d324fa1094d
 Section: Tweaks #工具插件
 Priority: optional
 Description: 使用WoodPeckeriOS 1.2.9動態庫，調適三方app。
-Author: TinXie
+Author: Tkwind
 Depiction: https://tinxie1115.github.io/descriptions/WoodPeckeriOS/index.html
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/WoodPeckeriOS/WoodPeckeriOSIcon@2x.png
 Name: WoodPeckeriOS

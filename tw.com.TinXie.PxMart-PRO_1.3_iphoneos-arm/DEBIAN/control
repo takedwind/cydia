@@ -8,10 +8,10 @@ Conflicts:
 Replaces: 
 Priority: optional
 Architecture: iphoneos-arm
-Author: TinXie
+Author: Tkwind
 dev: 
 Homepage: 
 Depiction: 全聯pay 防越獄檢測，同時支援全家app、遠通電收ETC
-Maintainer: TinXie <s2339956@gmail.com>
+Maintainer: Tkwind <takedwind@gmail.com>
 Icon: file:///Library/PreferenceLoader/Preferences/PxMart-PRO-icon@2x.png
 
